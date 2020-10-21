@@ -1,0 +1,6 @@
+[submodule "development_packages/micra_store"]
+	path = development_packages/micra_store
+	url = git@github.com:xyla-io/micra_store.git
+[submodule "development_packages/moda"]
+	path = development_packages/moda
+	url = git@github.com:xyla-io/moda.git

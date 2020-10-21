@@ -1,0 +1,6 @@
+click
+redis
+pytest
+ipython
+hiredis
+gevent
